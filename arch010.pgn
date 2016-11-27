@@ -1,0 +1,26 @@
+[Event "Carlsen - Karjakin World Championship"]
+[Site "New York, NY USA"]
+[Date "2016.11.15"]
+[Round "4"]
+[White "Sergey Karjakin"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[SetUp "1"]
+[FEN "3b4/5b2/p2B4/5ppk/2p5/P1P5/1P2KNP1/8 b - - 0 42"]
+[PlyCount "104"]
+[EventDate "2016.11.11"]
+
+42... Kg6 (42... Bd5 43. g3 g4 $1 44. Nd1 Bf3+ $1 45. Kd2 Bxd1 46. Kxd1 {
+勝ちの同色ビショップエンドゲーム} Kg6 47. Ke2 Kf6 48. Bf4 Ke6 49. Ke3 Be7 50.
+Ke2 Bd6 51. Ke3 Bxf4+ 52. Kxf4 Kf6 $18 53. a4 a5 54. Ke3 Ke5 55. Kf2 f4 56.
+gxf4+ Kxf4) 43. g4 Bb6 44. Be5 a5 45. Nd1 f4 46. Bd4 Bc7 47. Nf2 Be6 48. Kf3
+Bd5+ 49. Ke2 Bg2 50. Kd2 Kf7 51. Kc2 Bd5 52. Kd2 Bd8 53. Kc2 Ke6 54. Kd2 Kd7
+55. Kc2 Kc6 56. Kd2 Kb5 57. Kc1 Ka4 58. Kc2 Bf7 59. Kc1 Bg6 60. Kd2 Kb3 61. Kc1
+Bd3 62. Nh3 Ka2 63. Bc5 Be2 64. Nf2 Bf3 65. Kc2 Bc6 66. Bd4 Bd7 67. Bc5 Bc7 68.
+Bd4 Be6 69. Bc5 f3 70. Be3 Bd7 71. Kc1 Bc8 72. Kc2 Bd7 73. Kc1 Bf4 74. Bxf4
+gxf4 75. Kc2 Be6 76. Kc1 Bc8 77. Kc2 Be6 78. Kc1 Kb3 79. Kb1 Ka4 80. Kc2 Kb5
+81. Kd2 Kc6 82. Ke1 Kd5 83. Kf1 Ke5 84. Kg1 Kf6 85. Ne4+ Kg6 86. Kf2 Bxg4 87.
+Nd2 Be6 88. Kxf3 Kf5 89. a4 Bd5+ 90. Kf2 Kg4 91. Nf1 Kg5 92. Nd2 Kf5 93. Ke2
+Kg4 94. Kf2 1/2-1/2
+
