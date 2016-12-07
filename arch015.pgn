@@ -1,0 +1,13 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "New game"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5p1p/6p1/8/8/8/5PPP/2B1R1K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Bh6+ Kg8 {[%csl Rf8,Rg8,Rh8,Rg7]これで見たことのあるポジションになりました！} 2. Re8# *
+
