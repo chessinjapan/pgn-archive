@@ -9,5 +9,5 @@
 [FEN "6k1/r4ppp/8/8/8/8/5PPP/4R1K1 w - - 0 1"]
 [PlyCount "1"]
 
-1. Re8# *
+1. {[%csl Rf8,Rg8,Rh8] Red squares} Re8# *
 
