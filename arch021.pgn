@@ -1,0 +1,13 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "New game"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/5p1p/8/8/8/3Q4/6R1/2KR4 w - - 0 1"]
+[PlyCount "3"]
+
+1. Qxh7+ Kxh7 {[%csl Rh8,Rh7,Rh6,Rh5,Rh4,Rh3,Rh2,Rh1]クイーンをサクリファイスすることで、今まで見た形に誘導することができます。} 2. Rh1# *
+
